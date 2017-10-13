@@ -3,6 +3,7 @@ int oikeaMot1 = 3;
 int oikeaMot2 = 9;
 int vasenMot1 = 11;
 int vasenMot2 = 10;
+int nopeus = 150;
 
 void setup(){     
   pinMode(oikeaMot1, OUTPUT); 
